@@ -1,2 +1,2 @@
 ﻿# SonarQube-IMC
-analisis realizado con SonarCloud - irectamente al reposiorio del codigo
+analisis realizado con SonarCloud - directamente al reposiorio del codigo
